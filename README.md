@@ -1,3 +1,3 @@
 # silabs-WayneW.github.io
-this is a test.
-add some information for test.
+#1 this is a test.
+#2 add some information for test.
